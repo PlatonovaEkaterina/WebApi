@@ -9,7 +9,7 @@
       "WebApi/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "Schick.Keycloak.RestApiClient": "25.0.0",
+          "Schick.Keycloak.RestApiClient": "26.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -86,7 +86,7 @@
           }
         }
       },
-      "Schick.Keycloak.RestApiClient/25.0.0": {
+      "Schick.Keycloak.RestApiClient/26.0.0": {
         "dependencies": {
           "JsonSubTypes": "2.0.1",
           "Newtonsoft.Json": "13.0.3",
@@ -95,8 +95,8 @@
         },
         "runtime": {
           "lib/netstandard2.0/FS.Keycloak.RestApiClient.dll": {
-            "assemblyVersion": "25.0.0.0",
-            "fileVersion": "25.0.0.0"
+            "assemblyVersion": "26.0.0.0",
+            "fileVersion": "26.0.0.0"
           }
         }
       },
@@ -218,12 +218,12 @@
       "path": "polly.core/8.1.0",
       "hashPath": "polly.core.8.1.0.nupkg.sha512"
     },
-    "Schick.Keycloak.RestApiClient/25.0.0": {
+    "Schick.Keycloak.RestApiClient/26.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mSP69pWZ/zzz/7MCBr3wdfJAsYXNdJX6A4C4Ed1dw56Y/UuRIaPfKtK4Crtygz1u3hqmn5vWxAo310YSt67eAA==",
-      "path": "schick.keycloak.restapiclient/25.0.0",
-      "hashPath": "schick.keycloak.restapiclient.25.0.0.nupkg.sha512"
+      "sha512": "sha512-IwIymBt7Z5RoProLzAXE4GEttmVvBAr7H5RM7TkH2UKJAIpBc5NxSeloipP1GRaHzO1pEuBdCl8gwxcHgDUGzA==",
+      "path": "schick.keycloak.restapiclient/26.0.0",
+      "hashPath": "schick.keycloak.restapiclient.26.0.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",

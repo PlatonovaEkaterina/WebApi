@@ -148,7 +148,7 @@
           }
         }
       },
-      "Schick.Keycloak.RestApiClient/25.0.0": {
+      "Schick.Keycloak.RestApiClient/26.0.0": {
         "type": "package",
         "dependencies": {
           "JsonSubTypes": "2.0.1",
@@ -688,17 +688,17 @@
         "polly.core.nuspec"
       ]
     },
-    "Schick.Keycloak.RestApiClient/25.0.0": {
-      "sha512": "mSP69pWZ/zzz/7MCBr3wdfJAsYXNdJX6A4C4Ed1dw56Y/UuRIaPfKtK4Crtygz1u3hqmn5vWxAo310YSt67eAA==",
+    "Schick.Keycloak.RestApiClient/26.0.0": {
+      "sha512": "IwIymBt7Z5RoProLzAXE4GEttmVvBAr7H5RM7TkH2UKJAIpBc5NxSeloipP1GRaHzO1pEuBdCl8gwxcHgDUGzA==",
       "type": "package",
-      "path": "schick.keycloak.restapiclient/25.0.0",
+      "path": "schick.keycloak.restapiclient/26.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "Schick.Keycloak.RestApiClient.png",
         "lib/netstandard2.0/FS.Keycloak.RestApiClient.dll",
-        "schick.keycloak.restapiclient.25.0.0.nupkg.sha512",
+        "schick.keycloak.restapiclient.26.0.0.nupkg.sha512",
         "schick.keycloak.restapiclient.nuspec"
       ]
     },
@@ -902,7 +902,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 13.0.1",
-      "Schick.Keycloak.RestApiClient >= 25.0.0",
+      "Schick.Keycloak.RestApiClient >= 26.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -949,7 +949,7 @@
           },
           "Schick.Keycloak.RestApiClient": {
             "target": "Package",
-            "version": "[25.0.0, )"
+            "version": "[26.0.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

@@ -24,9 +24,6 @@ namespace WebApi.Workers
 
                     if (response.StatusCode == HttpStatusCode.OK)
                     {
-                            //Нужно будет добавить UserDB (когда появится у Лизы),
-                            //десериализовать в List<UserDB> и потом уже смапить на то, что будет храниться в Keycloak
-
                             var users = response.Content.ReadFromJsonAsync<List<User>>(stoppingToken).Result;
                             await keycloakService.SyncUsers(users);
                  
