@@ -1,0 +1,5 @@
+C:\Users\platonovae\projects\WebApi\src\WorkerService\obj\Debug\net8.0\WorkerService.csproj.AssemblyReference.cache
+C:\Users\platonovae\projects\WebApi\src\WorkerService\obj\Debug\net8.0\WorkerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\platonovae\projects\WebApi\src\WorkerService\obj\Debug\net8.0\WorkerService.AssemblyInfoInputs.cache
+C:\Users\platonovae\projects\WebApi\src\WorkerService\obj\Debug\net8.0\WorkerService.AssemblyInfo.cs
+C:\Users\platonovae\projects\WebApi\src\WorkerService\obj\Debug\net8.0\WorkerService.csproj.CoreCompileInputs.cache
